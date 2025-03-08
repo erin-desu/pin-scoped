@@ -1,5 +1,3 @@
-#![feature(async_closure)]
-
 use std::{pin::pin, sync::OnceLock};
 
 use pin_scoped::{Scope, ScopeState};
